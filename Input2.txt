@@ -1,0 +1,11 @@
+2011-02-18T00:14 Amal Aa_Bb Xxx 5 5
+2011-02-28T00:34 Amal Aa_Bb Xxx 5 4
+2011-01-09T16:13 Amal Aa_Bb Yyy 5 2
+2011-09-25T01:39 Saman Aa_Bb Xxx 3 5
+2011-12-31T05:43 Saman Ada Xxx 4 5
+2011-05-29T15:58 Amal Ada Xxx 5 5
+2011-10-01T03:35 Kamal Ada Xxx 5 4
+2011-05-01T05:29 Saman Ada Yyy 5 2
+2011-05-02T09:20 Amal Ada Zzz 3 1
+2011-05-13T20:22 Kamal Ada Zzz 3 1
+2011-11-20T16:13 Saman Ada Zzz 2 0
